@@ -1,0 +1,14 @@
+{
+  "name": "wibbo-ressources",
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview"
+  },
+  "devDependencies": {
+    "@nuxtjs/tailwindcss": "6.12.2",
+    "nuxt": "^3.14.1592"
+  }
+}
